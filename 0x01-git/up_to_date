@@ -1,8 +1,5 @@
-git init
-git config
 git add
 git status
-git commit -m
+git commit
 git push
-git checkout
-git reset 
+git checkout 
